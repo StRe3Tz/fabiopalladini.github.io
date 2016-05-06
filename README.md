@@ -20,5 +20,6 @@ Il computer è scomponibile principalmente in 2 componenti:<br>
   <li>Elaborazione dati(vengono svote le operazioni necessarie per poter dare una risposta all'utente)</li>
   <li>Output(fase in cui i risultati delle operazioni vengono esposte all'utente</li>
 </ul>
+<img src="computer.png" width="400" height="200">
 </body>
 </html>
