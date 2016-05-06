@@ -2,7 +2,8 @@
 <head>
 </head>
 <body>
-<title><h1>COMPUTER</h1></title>
+<title>COMPUTER</title>
+<h1>IL COMPUTER</h1>
 <h2>Cos'è?</h2>
 <p>Il computer è una macchina i grado di elaborare dati velocemente e precisamente.</p>
 <h2>Come è fatto?</h2>
