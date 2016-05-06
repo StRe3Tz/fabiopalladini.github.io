@@ -3,7 +3,7 @@
 </head>
 <body>
 <title>COMPUTER</title>
-<h1>COMPUTER</h1>
+<h1>IL COMPUTER</h1>
 <h2>Cos'è?</h2>
 <p>Il computer è una macchina i grado di elaborare dati velocemente e precisamente.</p>
 <h2>Come è fatto?</h2>
@@ -21,5 +21,8 @@ Il computer è scomponibile principalmente in 2 componenti:<br>
   <li>Output(fase in cui i risultati delle operazioni vengono esposte all'utente</li>
 </ul>
 <img src="http://files.infranet3.webnode.it/200005171-6dc1f6ebba/computer.png" width="500" height="380" allign="right">
+<h3>L'hardware</h3>
+<p>I principali elementi che costituiscono l'hardware sono:tastiera,mouse,scanner,microfoni,webcam,stampante,strumenti audio,monitor e,ovviamente il case.<br>
+<a href="http://http://venus.unive.it/pmlett/autoapprendimento/windows_word/a_2.html">scopri di più</a>
 </body>
 </html>
