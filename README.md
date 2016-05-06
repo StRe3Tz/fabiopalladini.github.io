@@ -2,19 +2,10 @@
 <head>
 </head>
 <body>
-<title><marquee
-  loop="-1"
-  scrollamount="1"
-  scrolldelay="20"
-  direction="up"
-  height="150"
-  width="300"
-  align="right">
-IL COMPUTER<br>
-</marquee></title>
+<title><h1>COMPUTER</h1></title>
 <h2>Cos'è?</h2>
 <p>Il computer è una macchina i grado di elaborare dati velocemente e precisamente.</p>
-<h2>Come è fatto?<h2>
+<h2>Come è fatto?</h2>
 Il computer è scomponibile principalmente in 2 componenti:<br>
 <ul type=”circle”>
   <li>Hardware</li>
