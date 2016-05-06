@@ -18,7 +18,7 @@ Il computer è scomponibile principalmente in 2 componenti:<br>
 <ul type=”circle”>
   <li>Input(fase di immissione dati)</li>
   <li>Elaborazione dati(vengono svote le operazioni necessarie per poter dare una risposta all'utente)</li>
-  <li>Output(fase in cui i risultati delle operazioni vengono esposte all'utente</li>
+  <li>Output(fase in cui i risultati delle operazioni venono esposte all'utente)</li>
 </ul>
 <img src="http://files.infranet3.webnode.it/200005171-6dc1f6ebba/computer.png" width="500" height="380" allign="right">
 <h3>L'hardware</h3>
